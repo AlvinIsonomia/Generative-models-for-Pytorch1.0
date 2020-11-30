@@ -13,9 +13,9 @@ Generate models implementions , including GAN and Auto Encoder. Based on pytorch
   - [x] WGAN
   - [x] WGAN-GP
   - [x] DCGAN
-  - [] InfoGAN
-  - [] Least-Square GAN
-  - [] SNGAN
+  - [ ] InfoGAN
+  - [ ] Least-Square GAN
+  - [ ] SNGAN
   - [x] AutoEncoder
   - [x] VAE
 - [ ] Just let me consider what todo next...
